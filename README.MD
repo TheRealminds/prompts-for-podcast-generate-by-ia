@@ -6,8 +6,10 @@
 </p>
 
 <p align="center">
-<https://github.com/TheRealminds/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST%20CASTONAUTAS.mp3>
-    Preview do podcast
+
+    Preview do podcast:
+https://github.com/TheRealminds/prompts-for-podcast-generate-by-ia/blob/main/output/PODCAST%20CASTONAUTAS.mp3
+
 </p>
 
 # Projeto Podcast Gerado por I.A.s
